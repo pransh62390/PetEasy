@@ -1,0 +1,31 @@
+.father-srv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.child-cards-srv {
+    width: 15rem;
+    height: 28rem;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.father-dev {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.child-cards-dev {
+    width: 15rem;
+    height: 22rem;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.hgt-75 {
+    height: 300px;
+}
